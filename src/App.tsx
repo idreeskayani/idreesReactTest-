@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import ChromeBrowser from './components/ChromeBrowser';
 import './App.css';
 
